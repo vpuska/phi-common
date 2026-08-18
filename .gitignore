@@ -2,6 +2,7 @@
 /out-tsc
 
 /node_modules
+/dist
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -9,3 +10,12 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+/.idea/modules.xml
+/package-lock.json
+/.idea/phi-common.iml
+/.idea/vcs.xml
+/.junie/memory/errors.md
+/.junie/memory/feedback.md
+/.junie/memory/language.json
+/.junie/memory/memory.version
+/.junie/memory/tasks.md
