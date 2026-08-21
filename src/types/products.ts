@@ -34,7 +34,7 @@ export interface ProductSearchTitle {
     name: string;
     // Fund or brand code
     fundBrandCode: string;
-    type: ProductType;
+    type: ProductType | "";
     // Array of product codes and associated attributes. Eg `[ "I27/1A412D", 457, ... ]`
     products: (string | number) [];
 }
