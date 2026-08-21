@@ -1,9 +1,9 @@
-/**
+/*
  * util/products.ts
- * ----
+ * ----------------
  * General product routines.
- * @author: V. Puska
- * @date: 20-Jul-2026
+ * author: V. Puska
+ * date: 20-Jul-2026
  */
 
 import {AUS_STATES, AusState} from "../types/general";
